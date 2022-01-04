@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    min-height: 600px;
+}
+.top-section{
+    display: flex;
+}
+.side-by-side {
+    width: 40%;
+    padding-left: 5%;
+}
+.right-side {
+    background-image: url(images/anirban-bg.png);
+    background-repeat: no-repeat;
+    background-size: 700px;
+    background-position: right;
+    padding-left: 10%;
+}
+h1{
+    font-size: 50px;
+}
