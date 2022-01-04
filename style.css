@@ -21,6 +21,22 @@ section{
     background-position: right;
     padding-left: 10%;
 }
+.left-side {
+    background-image: url(images/my-bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 550px;
+    background-position: left;
+    padding: 5%;
+    margin-left: 7%;
+    height: 600px;
+    float: left;
+}
+.dream {
+    overflow: hidden;
+    padding-top: 7%;
+    width: 40%;
+    height: 600px;
+}
 h1{
     font-size: 50px;
 }
